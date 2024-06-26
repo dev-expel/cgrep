@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/CGREP.dir/src/main.c.o CMakeFiles/CGREP.dir/src/test.c.o -o CGREP
