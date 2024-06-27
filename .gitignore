@@ -1,5 +1,4 @@
-.src/*.o
-.vscode
-.build
-.test
-.cgrep
+src/*.o
+vscode
+test
+cgrep

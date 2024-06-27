@@ -1,5 +1,4 @@
-hello world
-this line will not be included
-hello to everyone
-hello is my favourite word
-this line is amazing but it will not be included
+hello. This line will be included
+this line however will not be included
+nor will this line
+I said hello before but now I will say goodbye.

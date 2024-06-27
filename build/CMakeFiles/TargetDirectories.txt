@@ -1,3 +1,0 @@
-/home/matthew/Desktop/C Projects/cgrep/build/CMakeFiles/CGREP.dir
-/home/matthew/Desktop/C Projects/cgrep/build/CMakeFiles/edit_cache.dir
-/home/matthew/Desktop/C Projects/cgrep/build/CMakeFiles/rebuild_cache.dir

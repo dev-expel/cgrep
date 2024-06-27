@@ -26,6 +26,8 @@ int main(int argc, char** argv) {
 
     // generate the valid text
     char* valid_text = get_valid_text(file_text, data.search_term, MAX_FILE_SIZE);
+    free(file_text);
+    printf("%s\n", valid_text);
 
     return 0;
 }
